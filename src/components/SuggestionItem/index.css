@@ -1,0 +1,22 @@
+.list-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+}
+.list-item-name {
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #475569;
+}
+.list-arrow {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+}
+.suggestion-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
